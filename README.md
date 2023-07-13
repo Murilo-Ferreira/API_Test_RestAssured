@@ -4,7 +4,7 @@ Este repositório é para:
 
 #Prática de API
 
-Desenvolva o script da automação seguindo as informações a seguir: 
+Desenvolva o script da automação seguindo as informações a seguir:
 Documentação= https://reqres.in/
 URI = https://reqres.in/api/
 
